@@ -18,7 +18,7 @@ namespace MegaCalculator
 
             INode tree = GetTree(_inputStr);
 
-           // Console.WriteLine(tree.GetValue());
+            Console.WriteLine(tree.GetValue());
             
             Console.ReadLine();
         }
